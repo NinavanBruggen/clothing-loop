@@ -53,6 +53,7 @@ pkg --> internal
 #### 1.2. Install the advised vscode extensions.
 
 These extensions will popup as advised extensions
+(Make sure to also install the Go for VS Code extension if you don't have it yet)
 
 #### 1.3. Install the golang extension dependencies
 
